@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" href="style.css">
+<link rel="styles" href="main.css">
 </head>
   <h1>Hanni's Super Awesome World!</h1>
 <body>
   
-    <p>Welcome to the world of Hanni where everything is super awesome!</p> 
+    Welcome to the world of Hanni where everything is super awesome!
     
 </body>
 
