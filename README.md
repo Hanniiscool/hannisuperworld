@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link href="main.css">
-</head>
+<link rel=“stylesheet” type=“text/css” href=“main.css”>.</head>
   <h1>Hanni's Super Awesome World!</h1>
 <body>
   
