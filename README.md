@@ -9,6 +9,5 @@
    <p>Welcome to the world of Hanni where <strong>everything</strong> is super awesome!</p>
 </body>    
 
-
   
 </html>
